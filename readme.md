@@ -28,6 +28,12 @@ If at any stage you change your mind about what you want to be delivered and are
 
 If at any stage we change our mind about working with you, we will notify you by email within 24 hours. All deliverables created up to that point will be sent to you, all pending payments for future work will be refunded in full, and this contract will be terminated. No refunds will be given for past work.
 
+## Warranty of work
+
+We will not leave you in the dust with problems that are obviously our fault. If a problem is found in your deliverables within [ WARRANTY DURATION ] of delivery, and the problem is deemed by us to have been caused by our own negligence, we agree to fix the issue to the best of our ability free of charge.
+
+You understand the nature of design and software development, and accept that debugging is part of the process. You will not attempt to make warranty claims for problems that occur naturally in the development process. Our warranty includes, but is not limited to, corrupted files, lost data, and forgotten passwords, but it does not cover problems including, but not limited to, software bugs, hardware issues, and user experience issues.
+
 ## Graphics and photographs
 
 You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you'd like us to search for photographs for you, we can provide a separate estimate.
