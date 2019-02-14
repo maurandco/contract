@@ -1,4 +1,4 @@
-Between [FREELANCER NAME] and ​[CLIENT NAME].
+This contract is made effective as of [ DATE ] between [ FREELANCER NAME ] and ​[ CLIENT NAME ].
 
 # SUMMARY
 
@@ -6,11 +6,11 @@ We will always do our best to fulfill your needs and meet your expectations, but
 
 ## So in short;
 
-You ​[CLIENT NAME] (“You”) are hiring us ​[FREELANCER NAME] (“We or Us”) to:
+You ​[ CLIENT NAME ] (“You”) are hiring us ​[ FREELANCER NAME ] (“We or Us”) to:
 
-- [JOB DESCRIPTION AND SCOPE]
+- [ JOB DESCRIPTION AND SCOPE ]
 
-For the total price of ​[FREELANCER RATE] as outlined in our previous correspondence. We will charge a rush rate for urgent and undiscussed changes with less than 24 hours notice or during irregular business hours, for a total price of [FREELANCER RUSH RATE]. Of course it's a little more complicated, but we'll get to that.
+For the total price of ​[ FREELANCER RATE ] as outlined in our previous correspondence. We will charge a rush rate for urgent and undiscussed changes with less than 24 hours notice or during irregular business hours, for a total price of [ FREELANCER RUSH RATE ]. Of course it's a little more complicated, but we'll get to that.
 
 ## What do both parties agree to?
 
@@ -104,11 +104,11 @@ We will own any intellectual property rights we have developed prior to, or deve
 
 We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we are also sure you will want to stay friends, you agree to stick tight to the following payment schedule:
 
-[PAYMENT SCHEDULE]
+[ PAYMENT SCHEDULE ]
 
-We will issue invoices electronically at the end of every week. Our payment terms are 15 days from the send date via the QuickBooks payment system provided with the invoice, a mailed check to the address on the invoice, or a payment method agreed on separately.
+We will issue invoices electronically at the end of every week. Our payment terms are [ PAYMENT TERMS ] from the send date via [ MAIN PAYMENT METHOD ], a mailed check to the address on the invoice, or a payment method agreed on separately.
 
-You agree to pay all charges associated with international transfers of funds. All proposals are quoted in USD and payments will be made at the equivalent conversion rate at the date the transfer is made if in a currency other than the aforementioned. We reserve the right to charge interest on all overdue debts at the rate of 5% per month or part of a month.
+You agree to pay all charges associated with international transfers of funds. All proposals are quoted in USD and payments will be made at the equivalent conversion rate at the date the transfer is made if in a currency other than the aforementioned. We reserve the right to charge interest on all overdue debts at the rate of [ INTEREST PERCENT ] per month or part of a month.
 
 ## But where's all the horrible small print?
 
@@ -118,7 +118,7 @@ We both agree that we will adhere to all relevant laws and regulations in relati
 
 This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of state and federal courts in the State of [FREELANCER STATE].
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of state and federal courts in the State of [ FREELANCER STATE ].
 
 ## The dotted line
 
@@ -126,7 +126,7 @@ Everyone should sign above and keep a copy for their records.
 
 
 _____________________________________________
-Signed by and on behalf of ​[FREELANCER NAME]
+Signed by and on behalf of ​[ FREELANCER NAME ]
 
 _____________________________________________
 Title
@@ -136,7 +136,7 @@ ______________________
 
 
 _____________________________________________
-Signed by and on behalf of [CLIENT NAME]
+Signed by and on behalf of [ CLIENT NAME ]
 
 _____________________________________________
 Title
