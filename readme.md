@@ -24,7 +24,7 @@ Us:​ We have the experience and ability to do everything we have agreed with y
 
 You will have plenty of opportunities to review our work and provide feedback. We will either share a Dropbox folder, GitHub repository, or demo site with you and we will have regular, possibly daily contact by phone, email, or Slack. You will allow 24 hours for us to respond to all communications, and will not attempt to communicate over social media or any other third party not previously agreed upon.
 
-If at any stage you change your mind about what you want to be delivered and are not happy with the direction our work is taking, you will pay us in full for the time we have spent working with you until that point. We will send you all deliverables created up to that point, and this contract will be terminated when all pending invoices are paid in full.
+If at any stage you change your mind about what you want to be delivered and are not happy with the direction our work is taking, you will pay us in full for the time we have spent working with you until that point. We will send you all deliverables created, and this contract will be terminated when all pending invoices are paid in full.
 
 If at any stage we change our mind about working with you, we will notify you by email within 24 hours. All deliverables created up to that point will be sent to you, all pending payments for future work will be refunded in full, and this contract will be terminated. No refunds will be given for past work.
 
@@ -38,7 +38,7 @@ We maintain the right to use open-source frameworks in your project that have pe
 
 ## Displaying our work
 
-We love to show off our work. Unless agreed separately, we reserve the right to display all aspects of our creative work, including sketches, work-in-progress designs, open-source code, and the completed project on our portfolio and in articles on websites, in magazine articles, and in books.
+We love to show off our work. Unless agreed separately, we reserve the right to display all aspects of our creative work, including sketches, work-in-progress designs, open-source code, and the completed project on our portfolio, in articles on websites, in magazine articles, and in books.
 
 ## Browser testing
 
@@ -48,7 +48,7 @@ We test our work in current versions of major desktop browsers including those m
 
 ## Mobile browser testing
 
-Testing using popular smaller screen devices is essential in ensuring that a person's experience of a design is appropriate to the capabilities of the device they're using. We test our designs in current versions of Safari (iOS) and Google Chrome (Android). We won't test in Blackberry, Opera Mini/Mobile, specific Android devices, Windows or other mobile browsers unless we agreed separately. If you need us to test using these, we can provide a separate estimate.
+Testing using popular smaller screen devices is essential in ensuring that a person's experience of a design is appropriate to the capabilities of the device they're using. We test our designs in current versions of Safari (iOS) and Google Chrome (Android). We won't test in Blackberry, Opera Mini, specific Android devices, Windows or other mobile browsers unless we agreed separately. If you need us to test using these, we can provide a separate estimate.
 
 ## Search engine optimisation
 
@@ -76,7 +76,7 @@ If our agreement is open-ended, we will frequently communicate with you as to ho
 
 ## Dormancy
 
-This project will be considered dormant if we don't receive any communication from you by phone, email, mail, or in person after 15 days, or if any pending invoices become overdue. At that point, all work will stop immediately and deliverables will be held until communication is re-established and payment is made in full.
+This project will be considered dormant if we don't receive any communication from you by phone, email, mail, or in person after [ DORMANCY DURATION ] days, or if any pending invoices become overdue. At that point, all work will stop immediately and deliverables will be held until communication is re-established and payment is made in full.
 
 ## Legal stuff
 
@@ -106,7 +106,7 @@ We are sure you understand how important it is as a small business that you pay 
 
 [ PAYMENT SCHEDULE ]
 
-We will issue invoices electronically at the end of every week. Our payment terms are [ PAYMENT TERMS ] from the send date via [ MAIN PAYMENT METHOD ], a mailed check to the address on the invoice, or a payment method agreed on separately.
+We will issue invoices electronically at the end of every [ INVOICE FREQUENCY ]. Our payment terms are [ PAYMENT TERMS ] from the send date via [ MAIN PAYMENT METHOD ], a mailed check to the address on the invoice, or a payment method agreed on separately.
 
 You agree to pay all charges associated with international transfers of funds. All proposals are quoted in USD and payments will be made at the equivalent conversion rate at the date the transfer is made if in a currency other than the aforementioned. We reserve the right to charge interest on all overdue debts at the rate of [ INTEREST PERCENT ] per month or part of a month.
 
