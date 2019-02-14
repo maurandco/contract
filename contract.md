@@ -64,15 +64,17 @@ Unless agreed separately, we will not set up a content management system for you
 
 We will not leave you in the dust with problems that are obviously our fault. If a problem is found in your deliverables within [ WARRANTY DURATION ] of delivery, and the problem is deemed by us to have been caused by our own negligence, we agree to fix the issue to the best of our ability free of charge.
 
-You understand the nature of design and software development, and accept that debugging is part of the process. You will not attempt to make warranty claims for problems that occur naturally in the development process. Our warranty includes, but is not limited to, corrupted files, lost data, misread requirements, and forgotten passwords, but it does not cover problems including, but not limited to, software bugs, hardware issues, server outages, unclear communication, and user experience issues.
+You understand the nature of design and software development, and accept that debugging is part of the process. You will not attempt to make warranty claims for problems that occur naturally in the software development process. Our warranty includes but is not limited to: corrupted files, lost data, and misread requirements. It does not cover problems including but not limited to: software bugs, hardware issues, server outages, user experience issues, and lost data resulting from your negligence.
 
 ### Technical support
 
-We are not a website hosting company so we don't offer support for website hosting, email, or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don't, we can set up an account for you at one of our preferred hosting providers. Then, the updates to, and management of that server will be up to you. We are not responsible for outages, hacks, or other emergencies, and will not be on call for you unless we agreed separately. If you need help with ongoing server maintenance, we can provide a separate estimate.
+We are not a website hosting company so we don't offer support for website hosting, email, or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don't, we can set up an account for you at one of our preferred hosting providers. Then, the updates to, and management of that server will be up to you.
+
+We are not responsible for outages, hacks, or other related emergencies, and will not be on call for you unless we agreed separately. If you need help with ongoing server maintenance, we can provide a separate estimate.
 
 ### Software licenses
 
-We buy and maintain our own software licenses for a number of design and development tools. We agree to use our existing licenses while working on your project, but if your project shows reasonable need for software we do not already own, you agree to pay in full for the licenses and give us temporary access as needed.
+We buy and maintain our own software licenses for a number of tools that help us do our job. We agree to use our existing licenses while working on your project, but if your project shows reasonable need for software we do not already own, you agree to pay in full for the licenses and give us temporary access as needed.
 
 We guarantee that all software we use has been legally purchased by us for commercial use. You guarantee that all software you provide to us has been legally purchased by you for commercial use. We agree to protect you, and you agree to protect us, from any claim by a third party regarding improperly-licensed software.
 
@@ -106,7 +108,7 @@ We guarantee that all elements of the work we deliver to you are either owned by
 
 You will own the website we design for you plus the visual elements that we create for it. We will give you source files and finished files, and you should keep them somewhere safe as we are not required to keep a copy. You own all intellectual property rights of text, images, site specification and data you provided, unless someone else owns them.
 
-We will own any intellectual property rights we have developed prior to, or developed separately from this project and not paid for by you. We will own the unique combination of these elements that constitutes a complete design and we will license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+We will own any intellectual property rights we have developed prior to, or developed separately from, this project and not paid for by you. We will own the unique combination of these elements that constitutes a complete design and we will license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
 
 ### Payment schedule
 
@@ -134,22 +136,22 @@ Everyone should sign below and keep a copy for their records.
 \
 \
 \
-\____________________________________________________________  
+\______________________________________________________________________  
 Signed by and on behalf of ​[ FREELANCER NAME ]
 
-\____________________________________________________________  
+\______________________________________________________________________  
 Title
 
 \___________________________  
-​Date
+Date
 \
 \
 \
-\____________________________________________________________  
+\______________________________________________________________________  
 Signed by and on behalf of [ CLIENT NAME ]
 
-\____________________________________________________________  
+\______________________________________________________________________  
 Title
 
 \___________________________  
-​Date
+Date
