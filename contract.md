@@ -1,6 +1,6 @@
 # Consulting Agreement
 
-This contract is made effective as of [ DATE ] between [ FREELANCER NAME ] and ​[ CLIENT NAME ].
+This contract is made effective as of [DATE] between Maurer Labs, LLC and ​[CLIENT NAME].
 
 ## SUMMARY
 
@@ -8,11 +8,11 @@ We will always do our best to fulfill your needs and meet your expectations, but
 
 ### So in short;
 
-You ​[ CLIENT NAME ] (“You”) are hiring us ​[ FREELANCER NAME ] (“We or Us”) to:
+You ​[CLIENT NAME] (“You”) are hiring us ​Maurer Labs, LLC (“We or Us”) to:
 
-- [ JOB DESCRIPTION AND SCOPE ]
+\- [JOB DESCRIPTION AND SCOPE]
 
-For the total price of ​[ FREELANCER RATE ] as outlined in our previous correspondence. We will charge a rush rate for urgent and undiscussed changes with less than 24 hours notice or during irregular business hours, for a total price of [ FREELANCER RUSH RATE ]. Of course it's a little more complicated, but we'll get to that.
+For the total price of ​[RATE] as outlined in our previous correspondence. We will charge a rush rate for urgent and undiscussed changes with less than 24 hours notice or during irregular business hours, for a total price of [RUSH RATE]. Of course it's a little more complicated, but we'll get to that.
 
 ### What do both parties agree to?
 
@@ -62,7 +62,7 @@ Unless agreed separately, we will not set up a content management system for you
 
 ### Warranty of work
 
-We will not leave you in the dust with problems that are obviously our fault. If a problem is found in your deliverables within [ WARRANTY DURATION ] of delivery, and the problem is deemed by us to have been caused by our own negligence, we agree to fix the issue to the best of our ability free of charge.
+We will not leave you in the dust with problems that are obviously our fault. If a problem is found in your deliverables within one month of delivery, and the problem is deemed by us to have been caused by our own negligence, we agree to fix the issue to the best of our ability free of charge.
 
 You understand the nature of design and software development, and accept that debugging is part of the process. You will not attempt to make warranty claims for problems that occur naturally in the software development process. Our warranty includes but is not limited to: corrupted files, lost data, and misread requirements. It does not cover problems including but not limited to: software bugs, hardware issues, server outages, user experience issues, and lost data resulting from your negligence.
 
@@ -86,7 +86,7 @@ If our agreement is open-ended, we will frequently communicate with you as to ho
 
 ### Dormancy
 
-This project will be considered dormant if we don't receive any communication from you by phone, email, mail, or in person after [ DORMANCY DURATION ], or if any pending invoices become overdue. At that point, all work will stop immediately and deliverables will be held until communication is re-established and payment is made in full.
+This project will be considered dormant if we don't receive any communication from you by phone, email, mail, or in person after two weeks, or if any pending invoices become overdue. At that point, all work will stop immediately and deliverables will be held until communication is re-established and payment is made in full.
 
 ### Legal stuff
 
@@ -112,13 +112,11 @@ We will own any intellectual property rights we have developed prior to, or deve
 
 ### Payment schedule
 
-We're sure you understand how important it is for us, as a small business, that you pay our invoices promptly. As we are also sure you will want to stay friends, you agree to stick tight to the following payment schedule:
+We're sure you understand how important it is for us, as a small business, that you pay our invoices promptly. As we are also sure you will want to stay friends, you agree to stick tight to the following payment schedule.
 
-[ PAYMENT SCHEDULE ]
+We will issue itemized invoices electronically at the end of every week. Our payment terms are two weeks from the send date via electronic check, mailed check to the address on the invoice, or payment method agreed upon separately.
 
-We will issue itemized invoices electronically at the end of every [ INVOICE FREQUENCY ]. Our payment terms are [ PAYMENT TERMS ] from the send date via [ MAIN PAYMENT METHOD ], a mailed check to the address on the invoice, or a payment method agreed on separately.
-
-You agree to pay all charges associated with international transfers of funds. All proposals are quoted in USD and payments will be made at the equivalent conversion rate at the date the transfer is made if in a currency other than the aforementioned. We reserve the right to charge interest on all overdue debts at the rate of [ INTEREST PERCENT ] per month or part of a month.
+You agree to pay all charges associated with international transfers of funds. All proposals are quoted in USD and payments will be made at the equivalent conversion rate at the date the transfer is made if in a currency other than the aforementioned. We reserve the right to charge interest on all overdue debts at the rate of 5% per month or part of a month.
 
 ### But where's all the horrible small print?
 
@@ -128,7 +126,7 @@ We both agree that we will adhere to all relevant laws and regulations in relati
 
 This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of state and federal courts in the State of [ FREELANCER STATE ].
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of state and federal courts in the State of Utah.
 
 ## THE DOTTED LINE
 
@@ -137,7 +135,7 @@ Everyone should sign below and keep a copy for their records.
 \
 \
 \______________________________________________________________________  
-Signed by and on behalf of ​[ FREELANCER NAME ]
+Signed by and on behalf of ​Maurer Labs, LLC
 
 \______________________________________________________________________  
 Title
@@ -148,7 +146,7 @@ Date
 \
 \
 \______________________________________________________________________  
-Signed by and on behalf of [ CLIENT NAME ]
+Signed by and on behalf of [CLIENT NAME]
 
 \______________________________________________________________________  
 Title

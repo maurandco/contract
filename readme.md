@@ -1,10 +1,11 @@
-# Freelancing Contract
+# Consulting Contract
 
-A straightforward freelancing contract without confusing language, based on the original [Contract Killer](https://gist.github.com/malarkey/4031110).
+Our straightforward consulting contract without confusing language, based on the original [Contract Killer](https://gist.github.com/malarkey/4031110).
 
-## Formats
+[Read the contract here.](contract.md)
 
-- [Markdown](contract.md)
-- [PDF](contract.pdf)
-- [Pages](https://github.com/jsonmaur/contract/raw/master/contract.pages)
-- [Word](https://github.com/jsonmaur/contract/raw/master/contract.docx)
+## Alternate Formats
+
+- [PDF](https://github.com/maurerlabs/contract/raw/master/contract.pdf)
+- [Pages](https://github.com/maurerlabs/contract/raw/master/contract.pages)
+- [Word](https://github.com/maurerlabs/contract/raw/master/contract.docx)
