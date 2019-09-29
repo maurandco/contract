@@ -122,7 +122,7 @@ You agree to pay all charges associated with international transfers of funds. A
 
 ### Time tracking
 
-We will use third-party time tracking software to log time spent on each activity. Time entries are rounded up to the nearest minute, and detailed time reports will be included with each invoice. We will not submit time tracking details to any other system unless agreed upon separately. Written approval by us is sufficient for any revisions or additions to the scope of this project related to time tracking.
+We will use third-party time tracking software to log time spent on each activity. Time entries are rounded up to the nearest minute, and detailed time reports will be included with each invoice. We will not use any other time tracking software or submit the data to any other system unless agreed upon separately. Written approval by us is sufficient for any revisions or additions to the scope of this project related to time tracking.
 
 ### But where's all the horrible small print?
 
