@@ -1,8 +1,6 @@
 # Consulting Contract
 
-Our straightforward consulting contract without confusing language, based on the original [Contract Killer](https://gist.github.com/malarkey/4031110).
-
-[Read it here.](maurer-labs-consulting-contract.md)
+Our straightforward consulting contract without confusing language. [Read it in full here.](maurer-labs-consulting-contract.md)
 
 ## Alternate Formats
 

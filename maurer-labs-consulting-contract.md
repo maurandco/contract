@@ -12,13 +12,15 @@ You ​[CLIENT NAME] (“You”) are hiring us ​Maurer Labs, LLC (“We or Us�
 
 \- [JOB DESCRIPTION AND SCOPE]
 
-For the total price of ​[RATE] as outlined in our previous correspondence. We will charge a rush rate for urgent and undiscussed changes with less than 24 hours notice or during irregular business hours, for a total price of [RUSH RATE]. Of course it's a little more complicated, but we'll get to that.
+For the total price of ​[RATE] per hour as outlined in our previous correspondence. In the event that you require urgent work without 24 hours notice or during irregular business hours, we reserve the right to charge a rush rate for a total price of [RUSH RATE] per hour pending our availability. We will require written agreement from you before performing any work under the rush rate.
+
+Of course it's a little more complicated, but we'll get to that.
 
 ### What do both parties agree to?
 
 You:​ You have the authority to enter into this contract on behalf of yourself, your company, or your organization. You will give us the assets and information we tell you we need to complete the project. You will do this when we ask and provide it in the formats we ask for. You will review our work, provide feedback, and give approval in a timely manner too. Deadlines work two ways, so you'll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
-Us:​ We have the experience and ability to do everything we have agreed with you and we'll do it all in a professional and timely manner. We will endeavor to meet every deadline that's set and will maintain the confidentiality of everything you give us.
+Us:​ We have the experience and ability to do everything we have agreed with you and we'll do it all in a professional and timely manner. We will endeavor to meet every deadline that's set and will maintain the confidentiality of everything you give us. We will not exceed previously agreed upon hours detailed in the estimates without written approval from you.
 
 ## GETTING DOWN TO THE NITTY GRITTY
 
@@ -62,21 +64,21 @@ Unless agreed separately, we will not set up a content management system for you
 
 ### Warranty of work
 
-We will not leave you in the dust with problems that are obviously our fault. If a problem is found in your deliverables within one month of delivery, and the problem is deemed by us to have been caused by our own negligence, we agree to fix the issue to the best of our ability free of charge.
+We will not leave you in the dust with problems that are obviously our fault. If a problem is found in your deliverables within 30 days of delivery, and the problem is deemed by us to have been caused by our own negligence, we agree to fix the issue to the best of our ability free of charge.
 
 You understand the nature of design and software development, and accept that debugging is part of the process. You will not attempt to make warranty claims for problems that occur naturally in the software development process. Our warranty includes but is not limited to: corrupted files, lost data, and misread requirements. It does not cover problems including but not limited to: software bugs, hardware issues, server outages, user experience issues, and lost data resulting from your negligence.
-
-### Technical support
-
-We are not a website hosting company so we don't offer support for website hosting, email, or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don't, we can set up an account for you at one of our preferred hosting providers. Then, the updates to, and management of that server will be up to you.
-
-We are not responsible for outages, hacks, or other related emergencies, and will not be on call for you unless we agreed separately. If you need help with ongoing server maintenance, we can provide a separate estimate.
 
 ### Software licenses
 
 We buy and maintain our own software licenses for a number of tools that help us do our job. We agree to use our existing licenses while working on your project, but if your project shows reasonable need for software we do not already own, you agree to pay in full for the licenses and give us temporary access as needed.
 
 We guarantee that all software we use has been legally purchased by us for commercial use. You guarantee that all software you provide to us has been legally purchased by you for commercial use. We agree to protect you, and you agree to protect us, from any claim by a third party regarding improperly-licensed software.
+
+### Technical support
+
+We are not a website hosting company so we don't offer support for website hosting, email, or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don't, we can set up an account for you at one of our preferred hosting providers. Then, the updates to, and management of that server will be up to you.
+
+We are not responsible for outages, hacks, or other related emergencies, and will not be on call for you unless we agreed separately. If you need help with ongoing server maintenance, we can provide a separate estimate. Written approval by us is sufficient for any revisions or additions to the scope of this project related to technical support.
 
 ### Changes and revisions
 
@@ -86,11 +88,11 @@ If our agreement is open-ended, we will frequently communicate with you as to ho
 
 ### Dormancy
 
-This project will be considered dormant if we don't receive any communication from you by phone, email, mail, or in person after two weeks, or if any pending invoices become overdue. At that point, all work will stop immediately and deliverables will be held until communication is re-established and payment is made in full.
+This project will be considered dormant if we don't receive any communication from you by phone, email, mail, or in person after 15 days, or if any pending invoices become overdue. At that point, all work will stop immediately and deliverables will be held until communication is re-established and payment is made in full.
 
 ### Legal stuff
 
-We will carry out our work in accordance with good industry practice and at the standard expected from a suitably qualified person with relevant experience.
+We will carry out our work in accordance with good industry practice and at the highest standard expected from a professionally qualified staff with relevant experience in the fields of design and software development.
 
 That said, we can't guarantee that our work will be error-free and so we can't be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you have advised us of them.
 
@@ -108,15 +110,19 @@ We guarantee that all elements of the work we deliver to you are either owned by
 
 You will own the website we design for you plus the visual elements that we create for it. We will give you source files and finished files, and you should keep them somewhere safe as we are not required to keep a copy. You own all intellectual property rights of text, images, site specification and data you provided, unless someone else owns them.
 
-We will own any intellectual property rights we have developed prior to, or developed separately from, this project and not paid for by you. We will own the unique combination of these elements that constitutes a complete design and we will license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+We will own any intellectual property rights we have developed prior to, or developed separately from, this project and not paid for by you.
 
 ### Payment schedule
 
 We're sure you understand how important it is for us, as a small business, that you pay our invoices promptly. As we are also sure you will want to stay friends, you agree to stick tight to the following payment schedule.
 
-We will issue itemized invoices electronically at the end of every week. Our payment terms are two weeks from the send date via electronic check, mailed check to the address on the invoice, or payment method agreed upon separately.
+We will issue itemized invoices electronically at the end of every week. Our payment terms are 15 days from the send date via electronic check (ACH), mailed check to the address on the invoice, or a payment method agreed upon separately. Written approval by us is sufficient for any changes to the payment schedule.
 
 You agree to pay all charges associated with international transfers of funds. All proposals are quoted in USD and payments will be made at the equivalent conversion rate at the date the transfer is made if in a currency other than the aforementioned. We reserve the right to charge interest on all overdue debts at the rate of 5% per month or part of a month.
+
+### Time tracking
+
+We will use third-party time tracking software to log time spent on each activity. Time entries are rounded up to the nearest minute, and detailed time reports will be included with each invoice. We will not submit time tracking details to any other system unless agreed upon separately. Written approval by us is sufficient for any revisions or additions to the scope of this project related to time tracking.
 
 ### But where's all the horrible small print?
 
@@ -130,26 +136,4 @@ Although the language is simple, the intentions are serious and this contract is
 
 ## THE DOTTED LINE
 
-Everyone should sign below and keep a copy for their records.
-\
-\
-\
-\______________________________________________________________________  
-Signed by and on behalf of ​Maurer Labs, LLC
-
-\______________________________________________________________________  
-Title
-
-\___________________________  
-Date
-\
-\
-\
-\______________________________________________________________________  
-Signed by and on behalf of [CLIENT NAME]
-
-\______________________________________________________________________  
-Title
-
-\___________________________  
-Date
+[See the PDF version for the dotted lines.](https://github.com/maurerlabs/contract/raw/master/maurer-labs-consulting-contract.pdf)
