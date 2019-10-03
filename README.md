@@ -8,4 +8,4 @@ Our straightforward consulting contract without confusing language. [Read it in 
 - [Pages](https://github.com/maurerlabs/contract/raw/master/maurer-labs-consulting-contract.pages)
 - [Word](https://github.com/maurerlabs/contract/raw/master/maurer-labs-consulting-contract.docx)
 
-> _Disclaimer: Maurer Labs, LLC will not be held liable in any way for legal action taken against you, your company, or any others as a result of using or breaking this contract. Use at your own risk._
+> _Disclaimer: Maurer Labs, LLC will not be held liable in any way for legal action taken against you, your company, or any third-party as a result of breaking or using this contract with others. Use at your own risk._
