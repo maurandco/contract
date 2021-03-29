@@ -136,4 +136,4 @@ Although the language is simple, the intentions are serious and this contract is
 
 ## THE DOTTED LINE
 
-[See the PDF version for the dotted lines.](https://github.com/maurco/contract/raw/master/maurer-labs-consulting-contract.pdf)
+[See the PDF version for the dotted lines.](https://github.com/maurco/contract/raw/master/maur-consulting-contract.pdf)
