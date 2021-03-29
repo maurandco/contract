@@ -1,6 +1,6 @@
 # Consulting Agreement
 
-This contract is made effective as of [DATE] between Maurer Labs, LLC and ​[CLIENT NAME].
+This contract is made effective as of [DATE] between Maur & Co. LLC and ​[CLIENT NAME].
 
 ## SUMMARY
 
@@ -8,7 +8,7 @@ We will always do our best to fulfill your needs and meet your expectations, but
 
 ### So in short;
 
-You ​[CLIENT NAME] (“You”) are hiring us ​Maurer Labs, LLC (“We or Us”) to:
+You ​[CLIENT NAME] (“You”) are hiring us ​Maur & Co. LLC (“We or Us”) to:
 
 \- [JOB DESCRIPTION AND SCOPE]
 
